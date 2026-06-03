@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PulaAnuncio</string>
+    <string name="accessibility_service_label">PulaAnúncio - Skip de Anúncios</string>
+    <string name="accessibility_service_description">
+        O PulaAnúncio monitora a tela do YouTube para detectar e pressionar
+        automaticamente o botão "Pular anúncio" em seu lugar. Nenhum dado
+        é coletado ou transmitido.
+    </string>
+</resources>
