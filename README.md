@@ -10,6 +10,11 @@ O **PulaAnúncio** é um aplicativo Android desenvolvido para pular anúncios do
 - **Contador de Skips:** Uma interface minimalista e amigável que acompanha quantos anúncios foram pulados na sua sessão atual.
 - **Ultra Leve e Otimizado:** Sem uso de bateria em excesso. O serviço "hiberna" e só acorda ao identificar o pacote oficial do YouTube na tela, sem processamentos pesados em segundo plano.
 
+<p align="center">
+  <img src="ssts/ss1.jpg" alt="PulaAnúncio" width="360" style="margin: 0 12px;" />
+  <img src="ssts/ss2.jpg" alt="PulaAnúncio" width="360" style="margin: 0 12px;" />
+</p>
+
 ---
 
 ## 🛠 Tecnologias e Arquitetura
